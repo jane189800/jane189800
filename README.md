@@ -1,0 +1,1 @@
+This is just a test script to use bootstrap/JQuery in HTML5
